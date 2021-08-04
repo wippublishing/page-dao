@@ -901,11 +901,11 @@ header {
 }
 
 .page-image {
-  background: url("../images/placeholder-2400-1600.jpg") no-repeat center center;
+  background: url("../images/page-logo.png") no-repeat center center;
   background-size: cover;
-  height: 100%;
-  width: 100%;
-  min-height: 700px;
+  height: 400px;
+  width: 500px;
+  margin:auto;
 }
 
 .page-image-min {
